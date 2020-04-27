@@ -3,14 +3,14 @@
 ## Sequenz 1 (Akt I):
 Erarbeiten und anwenden analytischer Kenntnise zur Dramenanalyse unter besonderer Berücksichtigung von Charakterisierung, Figurenkonstellation, Ortstopologie (Funktionsräume) sowie psychologisch-kritischer und historisch-kritischer Analyse.
 
-Schiller: Wer ist das? – Einführung in die sozio-historischen Zusammenhänge anhand einer angeleiteten Internetrecherche.
+**Schiller: Wer ist das?** – Einführung in die sozio-historischen Zusammenhänge anhand einer angeleiteten Internetrecherche.
 Erarbeiten des Zusammenhangs zwischen dem Personenverzeichnis des Dramas und dem historischen Vorbild des Absolutismus in Würtemberg.
 Anwenden der Erkenntnisse über die Standesproblematik sowie exemplarische (historisch-kritische) Analyse der ersten Szene a Beispiel des Dialoges zwischen Vater Miller und seiner ´Frau
 Analyse des Dramentextes am Beispiel der Standesproblematik anhand von Vater Miller und dessen Frau sowie Wurm unter besonderer Berücksichtigung produktionsorientierter Methodik.
-Erarbeiten des Zusammenhangs zwischen der Liebesproblematik Ferdinands und Luises und dem historischen Liebeverständnis unter besonderer Berücksichtigung der Untersuchung von Luises Gottesfürchtigkeit sowie Ferdinands Hybris.
+Erarbeiten des Zusammenhangs zwischen der Liebesproblematik Ferdinands und Luises und dem historischen Liebesverständnis unter besonderer Berücksichtigung der Untersuchung von Luises Gottesfürchtigkeit sowie Ferdinands Hybris.
 
 ## Sequenz 2 (Akt I & Akt II):
-Anwenden und evaluieren analytischer Kenntnise zur Dramenanalyse unter besonderer Berücksichtigung von Charakterisierung, Figurenkonstellation, Ortstopologie (Funktionsräume) sowie psychologisch-kritischer und historisch-kritischer Analyse.
+Anwenden und evaluieren analytischer Kenntnisse zur Dramenanalyse unter besonderer Berücksichtigung von Charakterisierung, Figurenkonstellation, Ortstopologie (Funktionsräume) sowie psychologisch-kritischer und historisch-kritischer Analyse.
 
 Intrigen am Hofe des Präsidenten – Analyse des Dramas am Beispiel der Charakterisierung Wurms
 und des Präsidenten sowie des Hofmarschalls.
@@ -20,16 +20,16 @@ Das fragwürdige machiavellistische Ideal des Präsidenten – Beurteilung des M
 
 ## Sequenz 3 (Akt III & Akt IV):
 
-Anwenden und evaluieren analytischer Kenntnise zur Dramenanalyse unter besonderer Berücksichtigung von Charakterisierung, Figurenkonstellation, Ortstopologie (Funktionsräume) sowie psychologisch-kritischer und historisch-kritischer Analyse.
+Anwenden und evaluieren analytischer Kenntnisse zur Dramenanalyse unter besonderer Berücksichtigung von Charakterisierung, Figurenkonstellation, Ortstopologie (Funktionsräume) sowie psychologisch-kritischer und historisch-kritischer Analyse.
 
 Der Brief als Instrument der Intrige – Wurm und der Präsident
 
 ## Sequenz 4 (Akt IV):
-Anwenden und evaluieren analytischer Kenntnise zur Dramenanalyse unter besonderer Berücksichtigung von Charakterisierung, Figurenkonstellation, Ortstopologie (Funktionsräume) sowie psychologisch-kritischer und historisch-kritischer Analyse.
+Anwenden und evaluieren analytischer Kenntnisse zur Dramenanalyse unter besonderer Berücksichtigung von Charakterisierung, Figurenkonstellation, Ortstopologie (Funktionsräume) sowie psychologisch-kritischer und historisch-kritischer Analyse.
 
 wird noch ergänzt …
 
 ## Sequenz 5 (Akt V):
-Anwenden und evaluieren analytischer Kenntnise zur Dramenanalyse unter besonderer Berücksichtigung von Charakterisierung, Figurenkonstellation, Ortstopologie (Funktionsräume) sowie psychologisch-kritischer und historisch-kritischer Analyse.
+Anwenden und evaluieren analytischer Kenntnisse zur Dramenanalyse unter besonderer Berücksichtigung von Charakterisierung, Figurenkonstellation, Ortstopologie (Funktionsräume) sowie psychologisch-kritischer und historisch-kritischer Analyse.
 
 wird noch ergänzt …
