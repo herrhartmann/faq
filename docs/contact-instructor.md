@@ -7,7 +7,7 @@
   <div class="px-6 py-4">
     <div class="font-bold text-xl mb-2">Simon Hartmann</div>
     <p class="text-gray-700 text-base">
-    Virtuelle Bürozeiten
+   <div class="font-bold text-l mb-2">Virtuelle Bürozeiten</div>
     </p>
     <p class="text-gray-700 text-base">
     Montags 12:00-13:30 <br>
