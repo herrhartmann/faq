@@ -6,7 +6,7 @@
   <img class="w-full" src="assets/images/simon_png.png" alt="Sunset in the mountains">
   <div class="px-6 py-4">
     <div class="font-bold text-xl mb-2">Simon Hartmann</div>
-    <p class="text-gray-700 text-base">
+    <p class="text-gray-400 text-base">
    <div class="font-bold text-l mb-2">Virtuelle Bürozeiten</div>
     </p>
     <p class="text-gray-700 text-base">
