@@ -1,9 +1,9 @@
-# Contact Instructor
+# Kontakt
 
-**Course Instructor**  
-Some Name  
-somename@somewhere.edu  
+**Kursleiter**  
+Simon Hartmann
+hartmann@uber.space  
 
-Virtual office hours chat:  
-Mondays 12:00-1:30pm  
-Fridays 12:00-1:00pm  
+Virtuelle Bürozeiten  
+Montags 12:00-13:30 
+Freitags 12:00-13:00
