@@ -1,13 +1,13 @@
 :root {
     --base-font-size                        : 16px;
-    --link-color                            : #ACEB98;
-    --navbar-root-color                     : #ACEB98;
-    --navbar-root-color--active             : #ACEB98;
-    --navbar-root-color--hover              : #ACEB98;
-    --sidebar-name-color                    : #ACEB98;
-    --sidebar-nav-link-color--active        : #4D4D4D;
+    --link-color                            : #F6BA52;
+    --navbar-root-color                     : #F6BA52;
+    --navbar-root-color--active             : #F6BA52;
+    --navbar-root-color--hover              : #F6BA52;
+    --sidebar-name-color                    : #F6BA52;
+    --sidebar-nav-link-color--active        : #FCDC73;
     --sidebar-nav-link-font-weight--active  : bold;
-    --pagination-title-color                : #ACEB98;
+    --pagination-title-color                : #F6BA52;
 }
 
 .video-container {
@@ -34,7 +34,7 @@
   color: white;
   height: 38px;
   padding: 8px;
-  background-color: #ACEB98;
+  background-color: #F6BA52;
   text-decoration: none;
   border-radius: .25rem;
 }
