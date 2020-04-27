@@ -1,6 +1,6 @@
 # Schiller - Kabale und Liebe
 
-> * "Die Einhaltung der äußeren Schranken durch die Verankerung innerlicher Unterschiede konstituiert die psychologische Unmöglichkeit der Auflösung der Kabale" – Evaluieren des Dramas unter besonderer Berücksichtigung der historisch-kritischen sowie psychologisch-kritischen, kriteriengeleiteten Analyse von Schillers Kabale und Liebe.
+"Die Einhaltung der äußeren Schranken durch die Verankerung innerlicher Unterschiede konstituiert die psychologische Unmöglichkeit der Auflösung der Kabale" – Evaluieren des Dramas unter besonderer Berücksichtigung der historisch-kritischen sowie psychologisch-kritischen, kriteriengeleiteten Analyse von Schillers Kabale und Liebe.
 
 > **Wichtiges**
 > * [Kapitel 1](#) Lesen bis zum ...
