@@ -5,12 +5,10 @@
 <div class="max-w-sm rounded overflow-hidden shadow-lg">
   <img class="w-full" src="/assets/imgages/simon_png.png" alt="Sunset in the mountains">
   <div class="px-6 py-4">
-    <div class="font-bold text-xl mb-2">Simon hartmann</div>
+    <div class="font-bold text-xl mb-2">Simon Hartmann</div>
     <p class="text-gray-700 text-base">
-    Simon Hartmann
-    hartmann@uber.space  
-
-    Virtuelle Bürozeiten  
+    Virtuelle Bürozeiten
+    hartmann@uber.space   
     Montags 12:00-13:30
     Freitags 12:00-13:00
     </p>
