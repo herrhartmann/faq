@@ -8,7 +8,9 @@
     <div class="font-bold text-xl mb-2">Simon Hartmann</div>
     <p class="text-gray-700 text-base">
     Virtuelle Bürozeiten
-    Montags 12:00-13:30
+    </p>
+    <p class="text-gray-700 text-base">
+    Montags 12:00-13:30 <br>
     Freitags 12:00-13:00
     </p>
   </div>
