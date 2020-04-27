@@ -1,2 +1,2 @@
-* [Schedule](schedule.md)
-* [Contact Instructor](contact-instructor.md)
+* [Reihenplan](schedule.md)
+* [Kontakt](contact-instructor.md)

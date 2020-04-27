@@ -1,26 +1,35 @@
 # Schedule
 
- **:fas fa-calendar fa-fw: Week 1**  
-:fas fa-desktop fa-fw: [Introduction to UX Design](https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/pub?start=false&loop=false&delayms=3000)   
-:fas fa-book fa-fw: [Usability 101: Introduction to Usability](https://www.nngroup.com/articles/usability-101-introduction-to-usability/)  
+## Sequenz 1 (Akt I):
+Erarbeiten und anwenden analytischer Kenntnise zur Dramenanalyse unter besonderer Berücksichtigung von Charakterisierung, Figurenkonstellation, Ortstopologie (Funktionsräume) sowie psychologisch-kritischer und historisch-kritischer Analyse.
 
-**:fas fa-calendar fa-fw: Week 2**  
-:fas fa-keyboard fa-fw: [Course Reflection Log](https://sso.canvaslms.com/courses/1924881/assignments/14377752) due Aug 3rd  
-:fas fa-desktop fa-fw: [The Process of UX Design](https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/pub?start=false&loop=false&delayms=3000)   
-:fas fa-book fa-fw: [The Evolution of UX Process Methodology](https://uxplanet.org/the-evolution-of-ux-process-methodology-47f52557178b)  
+Schiller: Wer ist das? – Einführung in die sozio-historischen Zusammenhänge anhand einer angeleiteten Internetrecherche.
+Erarbeiten des Zusammenhangs zwischen dem Personenverzeichnis des Dramas und dem historischen Vorbild des Absolutismus in Würtemberg.
+Anwenden der Erkenntnisse über die Standesproblematik sowie exemplarische (historisch-kritische) Analyse der ersten Szene a Beispiel des Dialoges zwischen Vater Miller und seiner ´Frau
+Analyse des Dramentextes am Beispiel der Standesproblematik anhand von Vater Miller und dessen Frau sowie Wurm unter besonderer Berücksichtigung produktionsorientierter Methodik.
+Erarbeiten des Zusammenhangs zwischen der Liebesproblematik Ferdinands und Luises und dem historischen Liebeverständnis unter besonderer Berücksichtigung der Untersuchung von Luises Gottesfürchtigkeit sowie Ferdinands Hybris.
 
-**:fas fa-calendar fa-fw: Week 3**  
-:fas fa-keyboard fa-fw: [Journey Map](https://sso.canvaslms.com/courses/1924881/assignments/14377756) assignment due Jun 12th  
-:fas fa-folder fa-fw: [Informed Consent Materials](https://sso.canvaslms.com/courses/1924881/files/folder/Handouts/Informed%20Consent)  
-:fas fa-desktop fa-fw: [Strategic UX Design](https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/pub?start=false&loop=false&delayms=3000)   
-:fas fa-book fa-fw: [What is a User Journey Map?](https://www.aytech.ca/blog/user-journey-map/)  
+## Sequenz 2 (Akt I & Akt II):
+Anwenden und evaluieren analytischer Kenntnise zur Dramenanalyse unter besonderer Berücksichtigung von Charakterisierung, Figurenkonstellation, Ortstopologie (Funktionsräume) sowie psychologisch-kritischer und historisch-kritischer Analyse.
 
-**:fas fa-calendar fa-fw: Week 4**  
-:fas fa-desktop fa-fw: [Prototyping](https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/pub?start=false&loop=false&delayms=3000)   
-:fas fa-book fa-fw: [The Skeptic’s Guide To Low-Fidelity Prototyping](https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/)  
-:fas fa-users fa-fw: In-class office hours (tentative)  
+Intrigen am Hofe des Präsidenten – Analyse des Dramas am Beispiel der Charakterisierung Wurms
+und des Präsidenten sowie des Hofmarschalls.
+Lady Milford – Synthese eines (vorläufigen) Personenkonstellationschemas mit den bereits erarbeiteten Informationen zu den kollidierenden Liebesbeziehungen der ‚unvereinbaren‘ Stände in Form einer Gruppenarbeit.
+Die Einbindung Luises in die väterliche Ordnung der Familie und Religion wird erst dadurch konfliktträchtig, dass Ferdinands Konzeption autonomer Gestaltung des eigenen Lebensweges an Luise herangetragen wird und Ferdinands unbedingter Liebesanspruch auch bei ihr „wilde Wünsche“ nach Verwirklichung ihres nach väterlichen Maßstäben illegitimen Liebesanspruchs im Diesseits auslöst – Beurteilen der maßlosen Hybris Ferdinands vor dem Hintergrund der Konsequenzen für Luise.
+Das fragwürdige machiavellistische Ideal des Präsidenten – Beurteilung des Machtideals des Präsidenten vor dem Hintergrund seines ambivalenten Verhaltens.
 
-**:fas fa-calendar fa-fw: Week 5**  
-:fas fa-desktop fa-fw: [Usability Testing](https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/pub?start=false&loop=false&delayms=3000)   
-:fas fa-book fa-fw: [The Art of Guerrilla Usability Testing](http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/)  
-:fas fa-users fa-fw: In-class office hours (tentative)
+## Sequenz 3 (Akt III & Akt IV):
+
+Anwenden und evaluieren analytischer Kenntnise zur Dramenanalyse unter besonderer Berücksichtigung von Charakterisierung, Figurenkonstellation, Ortstopologie (Funktionsräume) sowie psychologisch-kritischer und historisch-kritischer Analyse.
+
+Der Brief als Instrument der Intrige – Wurm und der Präsident
+
+## Sequenz 4 (Akt IV):
+Anwenden und evaluieren analytischer Kenntnise zur Dramenanalyse unter besonderer Berücksichtigung von Charakterisierung, Figurenkonstellation, Ortstopologie (Funktionsräume) sowie psychologisch-kritischer und historisch-kritischer Analyse.
+
+wird noch ergänzt …
+
+## Sequenz 5 (Akt V):
+Anwenden und evaluieren analytischer Kenntnise zur Dramenanalyse unter besonderer Berücksichtigung von Charakterisierung, Figurenkonstellation, Ortstopologie (Funktionsräume) sowie psychologisch-kritischer und historisch-kritischer Analyse.
+
+wird noch ergänzt …
