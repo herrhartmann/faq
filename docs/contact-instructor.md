@@ -8,7 +8,6 @@
     <div class="font-bold text-xl mb-2">Simon Hartmann</div>
     <p class="text-gray-700 text-base">
     Virtuelle Bürozeiten
-    hartmann@uber.space   
     Montags 12:00-13:30
     Freitags 12:00-13:00
     </p>
